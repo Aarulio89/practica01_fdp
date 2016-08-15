@@ -3,5 +3,6 @@
 #include <studio.h>
 main()
 {
-  print("Hello World");
+  printf("Hello World");
+  printf("Good Bye!");//linea agregada
 }
